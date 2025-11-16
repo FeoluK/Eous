@@ -1,3 +1,7 @@
+Devpost Link: https://devpost.com/software/eous
+
+
+
 # **Eous — Your AR Bangboo Assistant**
 
 ## **Inspiration**
